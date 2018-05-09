@@ -1,6 +1,6 @@
 {
-  "_from": "nativescript-imagepicker",
-  "_id": "nativescript-imagepicker@6.0.1",
+  "_from": "github:gabitoesmiapodo/nativescript-imagepicker",
+  "_id": "nativescript-imagepicker@",
   "_inBundle": false,
   "_integrity": "sha512-nkNTZm7gaXTxxJrjH6EJYoKEMpSHYkh+Snyg8+0nt+lkjq2vWN1E31P58BiSjwst+7UYgnSANgqU4JI38lqWoA==",
   "_location": "/nativescript-imagepicker",
@@ -11,24 +11,24 @@
     "raw": "nativescript-imagepicker",
     "name": "nativescript-imagepicker",
     "escapedName": "nativescript-imagepicker",
-    "rawSpec": "",
-    "saveSpec": null,
+    "rawSpec": "github:gabitoesmiapodo/nativescript-imagepicker",
+    "saveSpec": "github:gabitoesmiapodo/nativescript-imagepicker",
     "fetchSpec": "latest"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nativescript-imagepicker/-/nativescript-imagepicker-6.0.1.tgz",
+  "_resolved": "github:gabitoesmiapodo/nativescript-imagepicker#373c0cb7f40b6d0fbe9720bafd6f38acf2ff1b41",
   "_shasum": "4dc3cdad436e767de83fa0af94f3bc7577b59036",
-  "_spec": "nativescript-imagepicker",
+  "_spec": "nativescript-imagepicker@github:gabitoesmiapodo/nativescript-imagepicker",
   "_where": "/Users/development/Sites/ba-mascotas-mobile",
   "author": {
     "name": "NativeScript Team"
   },
   "bootstrapper": "nativescript-plugin-seed",
   "bugs": {
-    "url": "https://github.com/NativeScript/nativescript-imagepicker/issues"
+    "url": "https://github.com/gabitoesmiapodo/nativescript-imagepicker/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -42,7 +42,7 @@
     "tslint": "~5.4.3",
     "typescript": "~2.6.0"
   },
-  "homepage": "https://github.com/NativeScript/nativescript-imagepicker",
+  "homepage": "https://github.com/gabitoesmiapodo/nativescript-imagepicker",
   "keywords": [
     "NativeScript",
     "JavaScript",
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NativeScript/nativescript-imagepicker.git"
+    "url": "git+https://github.com/gabitoesmiapodo/nativescript-imagepicker.git"
   },
   "scripts": {
     "build": "npm i && tsc",
