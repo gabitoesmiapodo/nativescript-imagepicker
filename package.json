@@ -19,7 +19,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "github:gabitoesmiapodo/nativescript-imagepicker#373c0cb7f40b6d0fbe9720bafd6f38acf2ff1b41",
+  "_resolved": "github:gabitoesmiapodo/nativescript-imagepicker",
   "_shasum": "4dc3cdad436e767de83fa0af94f3bc7577b59036",
   "_spec": "nativescript-imagepicker@github:gabitoesmiapodo/nativescript-imagepicker",
   "_where": "/Users/development/Sites/ba-mascotas-mobile",
